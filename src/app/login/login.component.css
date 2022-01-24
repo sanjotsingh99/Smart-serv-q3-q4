@@ -1,0 +1,29 @@
+.parent{
+    background-color: #141414;
+top: 90px;
+position: absolute;
+width: 29%;
+height: 68%;
+right: 35%;
+border-radius: 10px;
+}
+
+img{
+    height: 115px;
+    width: 270px;
+}
+
+.img{
+   
+    position: absolute;
+    top: 60px;
+    left: 70px;
+}
+
+.form-control.ng-touched.ng-invalid {
+    border:1px solid red;
+   }
+
+.form-control.ng-touched.ng-valid {
+    border:1px solid green;
+   }
